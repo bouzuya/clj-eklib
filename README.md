@@ -4,7 +4,7 @@ use Enlive for <del>Kobe Library Network</del>"
 
 ## Usage
 
-    lein run
+    lein run <mailaddr> <password>
 
 ## License
 
